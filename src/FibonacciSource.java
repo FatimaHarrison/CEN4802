@@ -18,6 +18,6 @@ public class FibonacciSource {
         int result = fibonacci(n);  // Call the recursive method
         //The output of the sequence print out line
         System.out.println("The " + n +
-                "th term of the Fibonacci sequence is " + result + ".");
+                "th term of the Fatima's Fibonacci sequece  is " + result + ".");
     }
 }
